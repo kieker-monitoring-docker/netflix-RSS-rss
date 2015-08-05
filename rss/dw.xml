@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sy="http://purl.org/rss/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dwsyn="http://partner.dw-world.de/syndication/dwsyn/">
+	<channel rdf:about="http://partner.dw.de/syndication/feeds/rss-en-all.1573.rdf">
+		<description>Deutsche Welle</description>
+		<link>http://www.dw.de/english/?maca=en-rss-en-all-1573-rdf</link>
+		<title>Deutsche Welle</title>
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFequency>4</sy:updateFequency>
+		<sy:updateBase>2002-05-01T00:00:00Z</sy:updateBase>
+		<dc:date>2015-02-23T10:26:41Z</dc:date>
+		<image rdf:resource="http://rss.dw.de/images/DW-L-RGB_whitebg.png"/>
+		<items>
+			<rdf:Seq>
+				<rdf:li rdf:resource="http://www.dw.de/ukrainian-army-refuses-to-start-withdrawing-heavy-weapons/a-18274346?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/german-business-confidence-jumps-again/a-18274348?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/egypt-sentences-activist-to-five-years-in-prison/a-18274278?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/study-pollution-shortening-lives-of-660-million-indians/a-18274186?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/hsbc-profits-drop-amid-tax-ceo-controversy/a-18274146?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/dax-reaches-another-high-after-greece-deal/a-18274159?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/child-pornography-trial-begins-against-ex-german-lawmaker-sebastian-edathy/a-18274105?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/music-made-in-germany-5-new-albums-to-watch-for/a-18269161?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/greece-puts-final-touches-on-reform-proposal-for-troika/a-18273987?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/birdman-wins-best-picture-at-87th-oscars/a-18273910?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/opinion-open-wounds-in-ukraine/a-18273853?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/al-shabab-threatens-western-shopping-centers/a-18273775?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/nearly-500-miners-rescued-from-south-african-gold-mine/a-18273724?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/us-commanders-convene-in-kuwait-to-assess-anti-is-campaign/a-18273668?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/marco-reus-i-want-to-win-the-bundesliga-with-dortmund/a-18273662?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/lampedusa-suffers-under-weight-of-europe-s-refugee-crisis/a-18273580?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/free-scoring-dost-strikes-again-as-wolfsburg-beat-hertha/a-18273621?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/islam-expert-on-why-german-youth-are-ready-to-kill/a-18273382?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/hrgota-snatches-late-point-for-gladbach-at-hamburg/a-18273560?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/kharkiv-bombing-overshadows-maidan-anniversary-march-in-ukraine/a-18273512?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/deadly-explosion-rips-through-eastern-ukraine-city-of-kharkiv/a-18273257?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/greece-races-to-finalize-reform-measures-ahead-of-deadline/a-18273240?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/israeli-ambassador-to-germany-calls-on-europe-s-jews-to-emigrate/a-18273199?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/german-government-says-no-tanks-for-lithuania-report/a-18273193?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/opinion-manifesto-for-a-modern-islam/a-18272979?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/matteo-renzi-stands-firm-at-italy-s-helm/a-18268615?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/hidden-cezanne-sketches-found-offer-glimpse-of-artistic-process/a-18272960?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/hollande-appeals-to-own-party-after-forcing-through-economic-reforms/a-18272933?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/opinion-love-your-language/a-18272509?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/goma-the-drc-s-phoenix-city-that-has-risen-from-the-ashes/a-18272333?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/moody-s-downgrades-russian-credit-rating-following-s-p/a-18271904?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/karsten-mühlenfeld-takes-over-new-berlin-ber-airport/a-18271851?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/african-graduates-flood-germany-s-job-market/a-18271271?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/pass-the-potato-chips-why-stoners-get-the-munchies/a-18271308?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/in-berlin-remembering-a-martyr/a-18271203?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/shooting-in-philippines-leaves-german-dead/a-18270745?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/who-approves-15-minute-ebola-test/a-18270673?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/drug-resistant-malaria-found-near-indian-border/a-18270608?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/apple-e-car-ready-in-2020-report/a-18270306?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/star-conductor-eschenbach-shares-secrets-to-happiness/a-18265248?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/drones-to-scan-brazil-s-amazon-forest/a-18268626?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/gladbach-cling-on-in-spain-wolfsburg-beat-sporting/a-18269930?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/poland-s-pre-war-code-crackers/a-18267853?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/german-job-market-keeps-on-booming/a-18268749?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/poverty-in-germany-at-its-highest-since-reunification/a-18268757?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/dogs-recognize-human-facial-expressions/a-18268141?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/german-film-tells-anne-frank-s-story-through-her-father-s-eyes/a-18268340?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/german-court-limits-performances-of-brecht-play/a-18268295?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/the-global-climate-needs-greener-transport/a-18248083?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/the-hitchhiking-robot-s-guide-to-germany/a-18267826?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/new-york-fashion-week-with-a-male-model-from-germany/a-18265872?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/scuba-divers-discover-hoard-of-ancient-gold-in-israel/a-18265147?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/ozone-layer-under-threat-again/a-18264692?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/uk-politicians-unite-to-shut-down-coal/a-18262136?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/iaea-significant-progress-at-fukushima/a-18264253?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/we-have-to-create-the-digital-single-market/a-18263951?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/berlin-through-the-instagram-lens/a-18261929?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/controversy-of-killing-for-conservation/a-18261895?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/ancient-traditions-protect-the-environment-in-east-timor/a-18260999?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/norway-to-become-germany-s-energy-reservoir/a-18256802?maca=en-rss-en-all-1573-rdf"/>
+				<rdf:li rdf:resource="http://www.dw.de/world-s-oceans-choking-on-plastic-waste/a-18256034?maca=en-rss-en-all-1573-rdf"/>
+			</rdf:Seq>
+		</items>
+	</channel>
+	<image rdf:about="http://rss.dw.de/images/DW-L-RGB_whitebg.png">
+		<url>http://rss.dw.de/images/DW-L-RGB_whitebg.png</url>
+		<link>http://www.dw.de/english/?maca=en-rss-en-all-1573-rdf</link>
+		<title>DW.DE</title>
+		<description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
+	</image>
+	<item rdf:about="http://www.dw.de/ukrainian-army-refuses-to-start-withdrawing-heavy-weapons/a-18274346?maca=en-rss-en-all-1573-rdf">
+		<title>Ukrainian army refuses to start withdrawing heavy weapons</title>
+		<link>http://www.dw.de/ukrainian-army-refuses-to-start-withdrawing-heavy-weapons/a-18274346?maca=en-rss-en-all-1573-rdf</link>
+		<description>Attacks by pro-Russian rebels have delayed withdrawal of heavy weapons from the front line, Ukrainian army sources say. Both sides in the conflict had previously agreed to pull back the weapons within two weeks.</description>
+		<dc:date>2015-02-23T10:22:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274346</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/german-business-confidence-jumps-again/a-18274348?maca=en-rss-en-all-1573-rdf">
+		<title>German business confidence jumps again</title>
+		<link>http://www.dw.de/german-business-confidence-jumps-again/a-18274348?maca=en-rss-en-all-1573-rdf</link>
+		<description>Managers&apos; confidence in the German economy has risen as exporters take advantage of favorable conditions. It was yet another positive sign for the strength of Europe&apos;s largest economy.</description>
+		<dc:date>2015-02-23T10:21:00Z</dc:date>
+		<dc:subject>Business</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274348</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/egypt-sentences-activist-to-five-years-in-prison/a-18274278?maca=en-rss-en-all-1573-rdf">
+		<title>Egypt sentences activist to five years in prison</title>
+		<link>http://www.dw.de/egypt-sentences-activist-to-five-years-in-prison/a-18274278?maca=en-rss-en-all-1573-rdf</link>
+		<description>Prominent Egyptian activist Alaa Abdel Fattah has been sentenced to five years imprisonment for organizing an illegal protest in 2014. The demonstration took place just two days after a law banning protests was passed.</description>
+		<dc:date>2015-02-23T10:15:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274278</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/study-pollution-shortening-lives-of-660-million-indians/a-18274186?maca=en-rss-en-all-1573-rdf">
+		<title>Study: Pollution shortening lives of 660 million Indians</title>
+		<link>http://www.dw.de/study-pollution-shortening-lives-of-660-million-indians/a-18274186?maca=en-rss-en-all-1573-rdf</link>
+		<description>India&apos;s air pollution is cutting the lives of 660 million people by about three years, a new study found. DW speaks to Nicholas Ryan, one of the study&apos;s authors, about how severe the country&apos;s air problems have become.</description>
+		<dc:date>2015-02-23T09:47:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274186</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/hsbc-profits-drop-amid-tax-ceo-controversy/a-18274146?maca=en-rss-en-all-1573-rdf">
+		<title>HSBC profits drop amid tax, CEO controversy</title>
+		<link>http://www.dw.de/hsbc-profits-drop-amid-tax-ceo-controversy/a-18274146?maca=en-rss-en-all-1573-rdf</link>
+		<description>British bank HSBC has announced a sharp drop in profit after fines and settlements hit its bottom line. The earnings report followed revelations the embattled bank&apos;s CEO hid millions of pounds in a secret Swiss account.</description>
+		<dc:date>2015-02-23T09:47:00Z</dc:date>
+		<dc:subject>Business</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274146</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/dax-reaches-another-high-after-greece-deal/a-18274159?maca=en-rss-en-all-1573-rdf">
+		<title>Dax reaches another high after Greece deal</title>
+		<link>http://www.dw.de/dax-reaches-another-high-after-greece-deal/a-18274159?maca=en-rss-en-all-1573-rdf</link>
+		<description>Germany&apos;s blue-chip share index, the DAX, reached a new high on Monday following the eurozone&apos;s finance ministers&apos; agreement with Greece on its bailout program. London&apos;s FTSE also initially traded near its record peak.</description>
+		<dc:date>2015-02-23T09:33:00Z</dc:date>
+		<dc:subject>Business</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274159</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/child-pornography-trial-begins-against-ex-german-lawmaker-sebastian-edathy/a-18274105?maca=en-rss-en-all-1573-rdf">
+		<title>Child pornography trial begins against ex-German lawmaker Sebastian Edathy</title>
+		<link>http://www.dw.de/child-pornography-trial-begins-against-ex-german-lawmaker-sebastian-edathy/a-18274105?maca=en-rss-en-all-1573-rdf</link>
+		<description>The trial of former German politician Sebastian Edathy has begun. Over the past year, child pornography allegations have destroyed the career of the once-rising star in Germany&apos;s SPD Party.</description>
+		<dc:date>2015-02-23T09:30:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18274105</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/music-made-in-germany-5-new-albums-to-watch-for/a-18269161?maca=en-rss-en-all-1573-rdf">
+		<title>Music made in Germany: 5 new albums to watch for</title>
+		<link>http://www.dw.de/music-made-in-germany-5-new-albums-to-watch-for/a-18269161?maca=en-rss-en-all-1573-rdf</link>
+		<description>Want to spice up your playlist? DW has picked a handful (literally) of German artists with new albums out. From Deichkind&apos;s electro-pop to Prag&apos;s retro chanson, there&apos;s something for you here, too.</description>
+		<dc:date>2015-02-23T08:38:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18269161</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/greece-puts-final-touches-on-reform-proposal-for-troika/a-18273987?maca=en-rss-en-all-1573-rdf">
+		<title>Greece puts final touches on reform proposal for troika</title>
+		<link>http://www.dw.de/greece-puts-final-touches-on-reform-proposal-for-troika/a-18273987?maca=en-rss-en-all-1573-rdf</link>
+		<description>Athens has been dotting the i&apos;s and crossing the t&apos;s on a new list of reform measures. If European lenders approve its proposal, Athens will be given a loan extension, narrowly avoiding insolvency.</description>
+		<dc:date>2015-02-23T08:12:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273987</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/birdman-wins-best-picture-at-87th-oscars/a-18273910?maca=en-rss-en-all-1573-rdf">
+		<title>Birdman wins Best Picture at 87th Oscars</title>
+		<link>http://www.dw.de/birdman-wins-best-picture-at-87th-oscars/a-18273910?maca=en-rss-en-all-1573-rdf</link>
+		<description>Black comedy-drama Birdman has scooped the big prize of the night at this year&apos;s Oscars. The film won Best Picture as well as Best Director for Alejandro Gonzalez Inarritu.</description>
+		<dc:date>2015-02-23T06:36:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273910</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/opinion-open-wounds-in-ukraine/a-18273853?maca=en-rss-en-all-1573-rdf">
+		<title>Opinion: Open wounds in Ukraine</title>
+		<link>http://www.dw.de/opinion-open-wounds-in-ukraine/a-18273853?maca=en-rss-en-all-1573-rdf</link>
+		<description>One year on, the crimes that took place on the Maidan are still unpunished. Last February, Ukrainians won against a corrupt regime but their desire for a better life remains unfulfilled, says DW&apos;s Bernd Johann.</description>
+		<dc:date>2015-02-23T05:28:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273853</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/al-shabab-threatens-western-shopping-centers/a-18273775?maca=en-rss-en-all-1573-rdf">
+		<title>Al-Shabab threatens Western shopping centers</title>
+		<link>http://www.dw.de/al-shabab-threatens-western-shopping-centers/a-18273775?maca=en-rss-en-all-1573-rdf</link>
+		<description>In a new video, Somalia-based terror group al-Shabab has threatened Western shopping centers including one of the largest malls in the the US. Homeland Security Secretary Jeh Johnson is taking the threat &quot;seriously.&quot;</description>
+		<dc:date>2015-02-23T02:48:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273775</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/nearly-500-miners-rescued-from-south-african-gold-mine/a-18273724?maca=en-rss-en-all-1573-rdf">
+		<title>Nearly 500 miners rescued from South African gold mine</title>
+		<link>http://www.dw.de/nearly-500-miners-rescued-from-south-african-gold-mine/a-18273724?maca=en-rss-en-all-1573-rdf</link>
+		<description>All 486 miners trapped after a fire broke out in a South African gold mine over the weekend have been rescued. Some of the miners were trapped at a depth of nearly 3.5 kilometers.</description>
+		<dc:date>2015-02-23T01:15:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273724</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/us-commanders-convene-in-kuwait-to-assess-anti-is-campaign/a-18273668?maca=en-rss-en-all-1573-rdf">
+		<title>US commanders convene in Kuwait to assess anti-IS campaign</title>
+		<link>http://www.dw.de/us-commanders-convene-in-kuwait-to-assess-anti-is-campaign/a-18273668?maca=en-rss-en-all-1573-rdf</link>
+		<description>Top US commanders are due to meet in Kuwait on Monday to assess the multinational campaign against &quot;Islamic State&quot; jihadists in Syria and Iraq. New US Defense Secretary Ashton Carter will convene the meeting.</description>
+		<dc:date>2015-02-22T21:59:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273668</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/marco-reus-i-want-to-win-the-bundesliga-with-dortmund/a-18273662?maca=en-rss-en-all-1573-rdf">
+		<title>Marco Reus: &quot;I want to win the Bundesliga with Dortmund&quot;</title>
+		<link>http://www.dw.de/marco-reus-i-want-to-win-the-bundesliga-with-dortmund/a-18273662?maca=en-rss-en-all-1573-rdf</link>
+		<description>The 25-year-old put pen-to-paper on a long-term extension at Dortmund in February, ending months of speculation over whether he would leave the club this summer.</description>
+		<dc:date>2015-02-22T20:57:00Z</dc:date>
+		<dc:subject>Sports</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273662</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/lampedusa-suffers-under-weight-of-europe-s-refugee-crisis/a-18273580?maca=en-rss-en-all-1573-rdf">
+		<title>Lampedusa suffers under weight of Europe&apos;s refugee crisis</title>
+		<link>http://www.dw.de/lampedusa-suffers-under-weight-of-europe-s-refugee-crisis/a-18273580?maca=en-rss-en-all-1573-rdf</link>
+		<description>Since the end of Mare Nostrum and the flare-up of the war in Libya, more than 1,000 people have landed on Lampedusa. The island&apos;s residents fear the worst is yet to come. Karl Hoffmann reports from there.</description>
+		<dc:date>2015-02-22T20:52:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273580</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/free-scoring-dost-strikes-again-as-wolfsburg-beat-hertha/a-18273621?maca=en-rss-en-all-1573-rdf">
+		<title>Free-scoring Dost strikes again as Wolfsburg beat Hertha</title>
+		<link>http://www.dw.de/free-scoring-dost-strikes-again-as-wolfsburg-beat-hertha/a-18273621?maca=en-rss-en-all-1573-rdf</link>
+		<description>Bas Dost&apos;s incredible scoring streak continued following his four goals at Leverkusen last weekend. The Wolves moved to within eight points of Bayern at the top while Hertha Berlin face a tough battle to escape the drop.</description>
+		<dc:date>2015-02-22T18:31:00Z</dc:date>
+		<dc:subject>Sports</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273621</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/islam-expert-on-why-german-youth-are-ready-to-kill/a-18273382?maca=en-rss-en-all-1573-rdf">
+		<title>Islam expert on why German youth are &apos;ready to kill&apos;</title>
+		<link>http://www.dw.de/islam-expert-on-why-german-youth-are-ready-to-kill/a-18273382?maca=en-rss-en-all-1573-rdf</link>
+		<description>Why are young Germans joining the ranks of Islamists and waging jihad? Islamic studies expert Lamya Kaddor explains why youth, Muslim or not, are particularly susceptible to the indoctrination of Salafist recruiters.</description>
+		<dc:date>2015-02-22T16:47:00Z</dc:date>
+		<dc:subject>Germany</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273382</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/hrgota-snatches-late-point-for-gladbach-at-hamburg/a-18273560?maca=en-rss-en-all-1573-rdf">
+		<title>Hrgota snatches late point for Gladbach at Hamburg</title>
+		<link>http://www.dw.de/hrgota-snatches-late-point-for-gladbach-at-hamburg/a-18273560?maca=en-rss-en-all-1573-rdf</link>
+		<description>A late equalizer from Branimir Hrgota dampened the mood at the Volkspark, which had been sensing a win. Gladbach stayed in control of their Champions League destiny, but it could be two points lost in the race for 2nd.</description>
+		<dc:date>2015-02-22T16:42:00Z</dc:date>
+		<dc:subject>Sports</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273560</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/kharkiv-bombing-overshadows-maidan-anniversary-march-in-ukraine/a-18273512?maca=en-rss-en-all-1573-rdf">
+		<title>Kharkiv bombing overshadows Maidan anniversary march in Ukraine</title>
+		<link>http://www.dw.de/kharkiv-bombing-overshadows-maidan-anniversary-march-in-ukraine/a-18273512?maca=en-rss-en-all-1573-rdf</link>
+		<description>EU President Donald Tusk and German President Joachim Gauck have marked the Maidan anniversary in Ukraine&apos;s capital, Kyiv. The event was overshadowed by a bombing in Kharkiv, which left two people dead.</description>
+		<dc:date>2015-02-22T16:16:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273512</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/deadly-explosion-rips-through-eastern-ukraine-city-of-kharkiv/a-18273257?maca=en-rss-en-all-1573-rdf">
+		<title>Deadly explosion rips through eastern Ukraine city of Kharkiv</title>
+		<link>http://www.dw.de/deadly-explosion-rips-through-eastern-ukraine-city-of-kharkiv/a-18273257?maca=en-rss-en-all-1573-rdf</link>
+		<description>An explosive device that went off in a crowd of marchers celebrating Ukraine&apos;s 2014 revolution has caused over a dozen casualties. The country&apos;s Interior Ministry condemned the &quot;terrorist act&quot; far from the frontline.</description>
+		<dc:date>2015-02-22T12:57:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273257</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/greece-races-to-finalize-reform-measures-ahead-of-deadline/a-18273240?maca=en-rss-en-all-1573-rdf">
+		<title>Greece races to finalize reform measures ahead of deadline</title>
+		<link>http://www.dw.de/greece-races-to-finalize-reform-measures-ahead-of-deadline/a-18273240?maca=en-rss-en-all-1573-rdf</link>
+		<description>Greece is rushing to finalize a raft of reform measures that would spare it from bankruptcy and secure a four-month extension of its bailout program. Athens says the proposals will bring the economy &quot;out of sedation.&quot;</description>
+		<dc:date>2015-02-22T12:34:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273240</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/israeli-ambassador-to-germany-calls-on-europe-s-jews-to-emigrate/a-18273199?maca=en-rss-en-all-1573-rdf">
+		<title>Israeli ambassador to Germany calls on Europe&apos;s Jews to emigrate</title>
+		<link>http://www.dw.de/israeli-ambassador-to-germany-calls-on-europe-s-jews-to-emigrate/a-18273199?maca=en-rss-en-all-1573-rdf</link>
+		<description>The Israeli ambassador in Berlin has urged Jews to leave Europe and move to Israel. European anti-Semitism has made Jewish communities feel threatened, according to the diplomat.</description>
+		<dc:date>2015-02-22T11:44:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273199</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/german-government-says-no-tanks-for-lithuania-report/a-18273193?maca=en-rss-en-all-1573-rdf">
+		<title>German government says no tanks for Lithuania: report</title>
+		<link>http://www.dw.de/german-government-says-no-tanks-for-lithuania-report/a-18273193?maca=en-rss-en-all-1573-rdf</link>
+		<description>The German government has rejected a request from Lithuania for Boxer tanks, according to a newspaper report. The decision has been criticized by both sides of the German governing coalition.</description>
+		<dc:date>2015-02-22T11:29:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18273193</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/opinion-manifesto-for-a-modern-islam/a-18272979?maca=en-rss-en-all-1573-rdf">
+		<title>Opinion: Manifesto for a modern Islam</title>
+		<link>http://www.dw.de/opinion-manifesto-for-a-modern-islam/a-18272979?maca=en-rss-en-all-1573-rdf</link>
+		<description>Muslim intellectuals have called for their fellow believers to indentify societal failures and develop an Islam for the 21st century. Loay Mudhoon believes that Europe should unreservedly support this effort.</description>
+		<dc:date>2015-02-22T05:58:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18272979</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/matteo-renzi-stands-firm-at-italy-s-helm/a-18268615?maca=en-rss-en-all-1573-rdf">
+		<title>Matteo Renzi stands firm at Italy&apos;s helm</title>
+		<link>http://www.dw.de/matteo-renzi-stands-firm-at-italy-s-helm/a-18268615?maca=en-rss-en-all-1573-rdf</link>
+		<description>A year into his term, Matteo Renzi is firmly ensconced as Italy&apos;s prime minister with little to fear from the opposition. His supposed allies, however, could eventually pose a problem. Megan Williams reports from Rome.</description>
+		<dc:date>2015-02-22T04:31:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268615</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/hidden-cezanne-sketches-found-offer-glimpse-of-artistic-process/a-18272960?maca=en-rss-en-all-1573-rdf">
+		<title>Hidden Cezanne sketches found, offer glimpse of &apos;artistic process&apos;</title>
+		<link>http://www.dw.de/hidden-cezanne-sketches-found-offer-glimpse-of-artistic-process/a-18272960?maca=en-rss-en-all-1573-rdf</link>
+		<description>Two sketches by French artist Paul Cezanne have been discovered hidden on the reverse side of two watercolors sent for conservatory work. Although unfinished drafts, they offer &quot;a window into Cezanne&apos;s artistic process.&quot;</description>
+		<dc:date>2015-02-22T02:14:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18272960</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/hollande-appeals-to-own-party-after-forcing-through-economic-reforms/a-18272933?maca=en-rss-en-all-1573-rdf">
+		<title>Hollande appeals to own party after forcing through economic reforms</title>
+		<link>http://www.dw.de/hollande-appeals-to-own-party-after-forcing-through-economic-reforms/a-18272933?maca=en-rss-en-all-1573-rdf</link>
+		<description>French President Francois Hollande has called for &quot;responsibility&quot; and &quot;lucidity&quot; from his Socialist lawmakers, days after his government was forced to ram an economic reforms package through parliament without a vote.</description>
+		<dc:date>2015-02-22T00:36:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18272933</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/opinion-love-your-language/a-18272509?maca=en-rss-en-all-1573-rdf">
+		<title>Opinion: Love your language!</title>
+		<link>http://www.dw.de/opinion-love-your-language/a-18272509?maca=en-rss-en-all-1573-rdf</link>
+		<description>Some Germans lament, &quot;Our language has never been in worse shape.&quot; And some even worry an English invasion will make their language obsolete. What better time to worry than on International Mother Language Day.</description>
+		<dc:date>2015-02-21T16:40:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18272509</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/goma-the-drc-s-phoenix-city-that-has-risen-from-the-ashes/a-18272333?maca=en-rss-en-all-1573-rdf">
+		<title>Goma: The DRC&apos;s phoenix city that has risen from the ashes</title>
+		<link>http://www.dw.de/goma-the-drc-s-phoenix-city-that-has-risen-from-the-ashes/a-18272333?maca=en-rss-en-all-1573-rdf</link>
+		<description>Goma airport, in the Democratic Republic of Congo, is being rebuilt after being half-buried by a volcano. Frank-Walter Steinmeier has become the first German foreign minister to visit. DW&apos;s Claus Stäcker reports.</description>
+		<dc:date>2015-02-21T15:39:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18272333</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/moody-s-downgrades-russian-credit-rating-following-s-p/a-18271904?maca=en-rss-en-all-1573-rdf">
+		<title>Moody&apos;s downgrades Russian credit rating, following S&amp;P</title>
+		<link>http://www.dw.de/moody-s-downgrades-russian-credit-rating-following-s-p/a-18271904?maca=en-rss-en-all-1573-rdf</link>
+		<description>Ratings agency Moody&apos;s now regards Russian sovereign debt as non-investment grade - a term commonly known as &quot;junk&quot; status. Moscow said the reduction from Baa3 to Ba1 was based on &quot;factors of a political character.&quot;</description>
+		<dc:date>2015-02-21T03:08:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18271904</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/karsten-mühlenfeld-takes-over-new-berlin-ber-airport/a-18271851?maca=en-rss-en-all-1573-rdf">
+		<title>Karsten Mühlenfeld takes over &apos;new&apos; Berlin BER airport</title>
+		<link>http://www.dw.de/karsten-mühlenfeld-takes-over-new-berlin-ber-airport/a-18271851?maca=en-rss-en-all-1573-rdf</link>
+		<description>Rolls-Royce is better known for jet engines than airport administration, yet a former executive, Karsten Mühlenfeld, is to take charge of the new Berlin BER hub. Terminally delayed, can he get it open?</description>
+		<dc:date>2015-02-20T22:48:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18271851</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/african-graduates-flood-germany-s-job-market/a-18271271?maca=en-rss-en-all-1573-rdf">
+		<title>African graduates flood Germany&apos;s job market</title>
+		<link>http://www.dw.de/african-graduates-flood-germany-s-job-market/a-18271271?maca=en-rss-en-all-1573-rdf</link>
+		<description>Over the last couple of years the number of students from sub-Saharan Africa, who come to study and work in Germany, has increased. But getting a job can be difficult depending on the field of study one is taking.</description>
+		<dc:date>2015-02-20T16:11:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18271271</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/pass-the-potato-chips-why-stoners-get-the-munchies/a-18271308?maca=en-rss-en-all-1573-rdf">
+		<title>Pass the potato chips - why stoners get the munchies</title>
+		<link>http://www.dw.de/pass-the-potato-chips-why-stoners-get-the-munchies/a-18271308?maca=en-rss-en-all-1573-rdf</link>
+		<description>Thanks to a team of Yale researchers, we now know exactly why smoking marijuana stimulates the urge to dive into a bag of chips.</description>
+		<dc:date>2015-02-20T14:51:00Z</dc:date>
+		<dc:subject>Sci-Tech</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18271308</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/in-berlin-remembering-a-martyr/a-18271203?maca=en-rss-en-all-1573-rdf">
+		<title>In Berlin, remembering a &apos;martyr&apos;</title>
+		<link>http://www.dw.de/in-berlin-remembering-a-martyr/a-18271203?maca=en-rss-en-all-1573-rdf</link>
+		<description>Following the assassination of 21 of their brethrens by extremists in Libya, Germany’s Coptic community gathered in Berlin to commemorate the dead. DW’s Naomi Conrad met a mourner whose cousin was among those murdered.</description>
+		<dc:date>2015-02-20T14:51:00Z</dc:date>
+		<dc:subject>Germany</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18271203</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/shooting-in-philippines-leaves-german-dead/a-18270745?maca=en-rss-en-all-1573-rdf">
+		<title>Shooting in Philippines leaves German dead</title>
+		<link>http://www.dw.de/shooting-in-philippines-leaves-german-dead/a-18270745?maca=en-rss-en-all-1573-rdf</link>
+		<description>At argument at a fast food restaurant between two locals and two foreigners erupted into a deadly shooting. A German man, presumed to have been a bystander, was killed.</description>
+		<dc:date>2015-02-20T12:30:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18270745</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/who-approves-15-minute-ebola-test/a-18270673?maca=en-rss-en-all-1573-rdf">
+		<title>WHO approves 15-minute Ebola test</title>
+		<link>http://www.dw.de/who-approves-15-minute-ebola-test/a-18270673?maca=en-rss-en-all-1573-rdf</link>
+		<description>The World Health Organization (WHO) has approved the first rapid test for Ebola. Corgenix&apos;s test is less accurate than the standard test but is easy to perform giving results within 15 minutes.</description>
+		<dc:date>2015-02-20T12:12:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18270673</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/drug-resistant-malaria-found-near-indian-border/a-18270608?maca=en-rss-en-all-1573-rdf">
+		<title>Drug-resistant malaria found near Indian border</title>
+		<link>http://www.dw.de/drug-resistant-malaria-found-near-indian-border/a-18270608?maca=en-rss-en-all-1573-rdf</link>
+		<description>A drug-resistant strain of malaria from Southeast Asia can be found within 25 kilometers of the Indian border, potentially posing a serious threat to the global control and eradication of the disease, a new study found.</description>
+		<dc:date>2015-02-20T11:25:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18270608</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/apple-e-car-ready-in-2020-report/a-18270306?maca=en-rss-en-all-1573-rdf">
+		<title>Apple e-car ready in 2020: report</title>
+		<link>http://www.dw.de/apple-e-car-ready-in-2020-report/a-18270306?maca=en-rss-en-all-1573-rdf</link>
+		<description>Apple could be ready to produce an electric car within five years, a news report claimed on Thursday. But the technology giant is also facing a lawsuit for allegedly poaching employees.</description>
+		<dc:date>2015-02-20T10:11:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18270306</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/star-conductor-eschenbach-shares-secrets-to-happiness/a-18265248?maca=en-rss-en-all-1573-rdf">
+		<title>Star conductor Eschenbach shares secrets to happiness</title>
+		<link>http://www.dw.de/star-conductor-eschenbach-shares-secrets-to-happiness/a-18265248?maca=en-rss-en-all-1573-rdf</link>
+		<description>In war-struck Germany, it was music that gave the child Christoph Eschenbach a fresh start in life. Turning 75 on February 20, the world-renowned conductor says music keeps him from aging.</description>
+		<dc:date>2015-02-20T08:29:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18265248</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/drones-to-scan-brazil-s-amazon-forest/a-18268626?maca=en-rss-en-all-1573-rdf">
+		<title>Drones to scan Brazil&apos;s Amazon forest</title>
+		<link>http://www.dw.de/drones-to-scan-brazil-s-amazon-forest/a-18268626?maca=en-rss-en-all-1573-rdf</link>
+		<description>The mysteries of the Amazon and its history still lie far below the cover of the forest&apos;s leaves. But now scientists are using drones to try to uncover the secrets of the ancient civilizations that once called it home.</description>
+		<dc:date>2015-02-20T07:49:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268626</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/gladbach-cling-on-in-spain-wolfsburg-beat-sporting/a-18269930?maca=en-rss-en-all-1573-rdf">
+		<title>Gladbach cling on in Spain, Wolfsburg beat Sporting</title>
+		<link>http://www.dw.de/gladbach-cling-on-in-spain-wolfsburg-beat-sporting/a-18269930?maca=en-rss-en-all-1573-rdf</link>
+		<description>Both of Germany&apos;s representatives will feel their Europa League fates are in their own hands after Gladbach lost narrowly away and Wolfsburg opened a two-goal cushion at home, in the first legs of their last 32 ties.</description>
+		<dc:date>2015-02-19T20:10:00Z</dc:date>
+		<dc:subject>Sports</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18269930</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/poland-s-pre-war-code-crackers/a-18267853?maca=en-rss-en-all-1573-rdf">
+		<title>Poland&apos;s pre-war code crackers</title>
+		<link>http://www.dw.de/poland-s-pre-war-code-crackers/a-18267853?maca=en-rss-en-all-1573-rdf</link>
+		<description>The Oscar-nominated film The Imitation Game is based on the life of British mathematical genius Alan Turing, whose team broke the Nazi Enigma code. But their triumph was built on the groundwork of Polish mathematicians.</description>
+		<dc:date>2015-02-19T18:47:00Z</dc:date>
+		<dc:subject>Sci-Tech</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18267853</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/german-job-market-keeps-on-booming/a-18268749?maca=en-rss-en-all-1573-rdf">
+		<title>German job market keeps on booming</title>
+		<link>http://www.dw.de/german-job-market-keeps-on-booming/a-18268749?maca=en-rss-en-all-1573-rdf</link>
+		<description>Employment figures in Germany have increased once again, defying the ongoing euro crisis. More than 43 million people had work in the country in the last quarter of 2014 - the highest number since reunification.</description>
+		<dc:date>2015-02-19T13:53:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268749</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/poverty-in-germany-at-its-highest-since-reunification/a-18268757?maca=en-rss-en-all-1573-rdf">
+		<title>Poverty in Germany at its highest since reunification</title>
+		<link>http://www.dw.de/poverty-in-germany-at-its-highest-since-reunification/a-18268757?maca=en-rss-en-all-1573-rdf</link>
+		<description>Poverty in Germany is at it&apos;s highest since German reunification in 1990, according to a new study. Some 12.5 million Germans are now classified as poor.</description>
+		<dc:date>2015-02-19T12:36:00Z</dc:date>
+		<dc:subject>News</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268757</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/dogs-recognize-human-facial-expressions/a-18268141?maca=en-rss-en-all-1573-rdf">
+		<title>Dogs recognize human facial expressions</title>
+		<link>http://www.dw.de/dogs-recognize-human-facial-expressions/a-18268141?maca=en-rss-en-all-1573-rdf</link>
+		<description>Angry or happy? Dogs can tell the difference by looking at people&apos;s faces. But, do they understand what the expressions mean? Dog owners believe this to be the case, but there is no scientific proof.</description>
+		<dc:date>2015-02-19T12:14:00Z</dc:date>
+		<dc:subject>Sci-Tech</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268141</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/german-film-tells-anne-frank-s-story-through-her-father-s-eyes/a-18268340?maca=en-rss-en-all-1573-rdf">
+		<title>German film tells Anne Frank&apos;s story through her father&apos;s eyes</title>
+		<link>http://www.dw.de/german-film-tells-anne-frank-s-story-through-her-father-s-eyes/a-18268340?maca=en-rss-en-all-1573-rdf</link>
+		<description>It&apos;s been nearly 70 years since Anne Frank was killed in a Nazi concentration camp. The director of a new German-made docudrama on her life, broadcast this week, tells DW what makes his film so unique.</description>
+		<dc:date>2015-02-19T11:06:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268340</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/german-court-limits-performances-of-brecht-play/a-18268295?maca=en-rss-en-all-1573-rdf">
+		<title>German court limits performances of Brecht play</title>
+		<link>http://www.dw.de/german-court-limits-performances-of-brecht-play/a-18268295?maca=en-rss-en-all-1573-rdf</link>
+		<description>Berthold Brecht&apos;s heirs and notorious theater director Frank Castorf have reached an agreement over a controversial production of Bertolt Brecht&apos;s &quot;Baal.&quot; The production will only be shown two more times.</description>
+		<dc:date>2015-02-19T09:57:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18268295</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/the-global-climate-needs-greener-transport/a-18248083?maca=en-rss-en-all-1573-rdf">
+		<title>The global climate needs greener transport</title>
+		<link>http://www.dw.de/the-global-climate-needs-greener-transport/a-18248083?maca=en-rss-en-all-1573-rdf</link>
+		<description>Wind and solar energy have made power generation greener worldwide, but CO2 emissions continue to rise as more and more cars take to the roads. Experts are working hard on new solutions.</description>
+		<dc:date>2015-02-19T08:34:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18248083</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/the-hitchhiking-robot-s-guide-to-germany/a-18267826?maca=en-rss-en-all-1573-rdf">
+		<title>The hitchhiking robot&apos;s guide to Germany</title>
+		<link>http://www.dw.de/the-hitchhiking-robot-s-guide-to-germany/a-18267826?maca=en-rss-en-all-1573-rdf</link>
+		<description>A hitchhiking Canadian robot is endearing itself to Germans on a tour that includes a stop at the Brandenburg Gate in Berlin. The robot relies on the kindness of strangers (and their cars) to get around.</description>
+		<dc:date>2015-02-18T19:01:00Z</dc:date>
+		<dc:subject>Sci-Tech</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18267826</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/new-york-fashion-week-with-a-male-model-from-germany/a-18265872?maca=en-rss-en-all-1573-rdf">
+		<title>New York Fashion Week with a male model from Germany</title>
+		<link>http://www.dw.de/new-york-fashion-week-with-a-male-model-from-germany/a-18265872?maca=en-rss-en-all-1573-rdf</link>
+		<description>Walking the catwalk at New York Fashion Week is any model&apos;s dream. But the job can be a lot less glamorous than it might seem. DW spent a day with an aspiring male model.</description>
+		<dc:date>2015-02-18T15:14:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18265872</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/scuba-divers-discover-hoard-of-ancient-gold-in-israel/a-18265147?maca=en-rss-en-all-1573-rdf">
+		<title>Scuba divers discover hoard of ancient gold in Israel</title>
+		<link>http://www.dw.de/scuba-divers-discover-hoard-of-ancient-gold-in-israel/a-18265147?maca=en-rss-en-all-1573-rdf</link>
+		<description>As children, we&apos;ve probably all fantasized about uncovering an ancient buried treasure? Scuba divers have done just that. They found a priceless trove of gold coins - the largest ever discovered in Israel.</description>
+		<dc:date>2015-02-18T11:09:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18265147</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/ozone-layer-under-threat-again/a-18264692?maca=en-rss-en-all-1573-rdf">
+		<title>Ozone layer under threat, again?</title>
+		<link>http://www.dw.de/ozone-layer-under-threat-again/a-18264692?maca=en-rss-en-all-1573-rdf</link>
+		<description>Researchers are warning about the damage to the ozone layer by &quot;very short-lived substances&quot; or VSLS gases. Although the compounds occur naturally, our own production is rising.</description>
+		<dc:date>2015-02-17T19:22:00Z</dc:date>
+		<dc:subject>Sci-Tech</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18264692</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/uk-politicians-unite-to-shut-down-coal/a-18262136?maca=en-rss-en-all-1573-rdf">
+		<title>UK politicians unite to shut down coal</title>
+		<link>http://www.dw.de/uk-politicians-unite-to-shut-down-coal/a-18262136?maca=en-rss-en-all-1573-rdf</link>
+		<description>A new agreement between three major UK political parties aims to cut carbon emissions by phasing out coal. But environmentalists are disappointed the agreement fails to mention a time frame.</description>
+		<dc:date>2015-02-17T18:04:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18262136</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/iaea-significant-progress-at-fukushima/a-18264253?maca=en-rss-en-all-1573-rdf">
+		<title>IAEA: &apos;Significant progress&apos; at Fukushima</title>
+		<link>http://www.dw.de/iaea-significant-progress-at-fukushima/a-18264253?maca=en-rss-en-all-1573-rdf</link>
+		<description>For a third time, IAEA experts have examined the progress Japan has made in cleaning up the crippled Fukushima nuclear plant. They praised reduced radiation levels and called for resolving water contamination problems.</description>
+		<dc:date>2015-02-17T15:38:00Z</dc:date>
+		<dc:subject>World</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18264253</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/we-have-to-create-the-digital-single-market/a-18263951?maca=en-rss-en-all-1573-rdf">
+		<title>&apos;We have to create the Digital Single Market&apos;</title>
+		<link>http://www.dw.de/we-have-to-create-the-digital-single-market/a-18263951?maca=en-rss-en-all-1573-rdf</link>
+		<description>Europe has achieved a single market in the offline world. But what about the bloc&apos;s digital realm? DW speaks to Andrus Ansip, the European Commission&apos;s new vice-president for the Digital Single Market.</description>
+		<dc:date>2015-02-17T15:01:00Z</dc:date>
+		<dc:subject>Sci-Tech</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18263951</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/berlin-through-the-instagram-lens/a-18261929?maca=en-rss-en-all-1573-rdf">
+		<title>Berlin through the Instagram lens</title>
+		<link>http://www.dw.de/berlin-through-the-instagram-lens/a-18261929?maca=en-rss-en-all-1573-rdf</link>
+		<description>February in Berlin is grey, icy and damp. But (for that very reason?), it&apos;s still a favorite muse on Instagram. For an edgy take on the city or to get involved in the Berlin Instagram scene, here&apos;s what to watch for.</description>
+		<dc:date>2015-02-17T14:24:00Z</dc:date>
+		<dc:subject>Culture</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18261929</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/controversy-of-killing-for-conservation/a-18261895?maca=en-rss-en-all-1573-rdf">
+		<title>Controversy of killing for conservation</title>
+		<link>http://www.dw.de/controversy-of-killing-for-conservation/a-18261895?maca=en-rss-en-all-1573-rdf</link>
+		<description>Should scientists kill newly discovered yet endangered species in order to study them? Some prefer to rely on conservation-friendly photographic material, but the method is controversial.</description>
+		<dc:date>2015-02-17T10:16:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18261895</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/ancient-traditions-protect-the-environment-in-east-timor/a-18260999?maca=en-rss-en-all-1573-rdf">
+		<title>Ancient traditions protect the environment in  East Timor</title>
+		<link>http://www.dw.de/ancient-traditions-protect-the-environment-in-east-timor/a-18260999?maca=en-rss-en-all-1573-rdf</link>
+		<description>Indepedent since 2002, East Timor is one of the world&apos;s newest nations. But when it comes to protecting the environment, it has a unique and ancient tradition to draw upon - the practice of tara bandu.</description>
+		<dc:date>2015-02-17T08:10:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18260999</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/norway-to-become-germany-s-energy-reservoir/a-18256802?maca=en-rss-en-all-1573-rdf">
+		<title>Norway to become Germany&apos;s energy reservoir</title>
+		<link>http://www.dw.de/norway-to-become-germany-s-energy-reservoir/a-18256802?maca=en-rss-en-all-1573-rdf</link>
+		<description>A submarine power cable is set to link Norwegian hydroelectric plants and German wind farms starting in 2020. A powerhouse for Europe, Norwegian hydropower plays an important role in the renewable energy revolution.</description>
+		<dc:date>2015-02-16T14:02:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18256802</dwsyn:contentID>
+	</item>
+	<item rdf:about="http://www.dw.de/world-s-oceans-choking-on-plastic-waste/a-18256034?maca=en-rss-en-all-1573-rdf">
+		<title>World&apos;s oceans choking on plastic waste</title>
+		<link>http://www.dw.de/world-s-oceans-choking-on-plastic-waste/a-18256034?maca=en-rss-en-all-1573-rdf</link>
+		<description>Plastic is ubiquitous today, found in many consumer items. But once these products are thrown away, they often end up in the world&apos;s oceans, where they make their way through the ecosystem and - perhaps - back to us.</description>
+		<dc:date>2015-02-13T13:28:00Z</dc:date>
+		<dc:subject>Environment</dc:subject>
+		<dc:language>en</dc:language>
+		<dwsyn:contentID>18256034</dwsyn:contentID>
+	</item>
+</rdf:RDF>
