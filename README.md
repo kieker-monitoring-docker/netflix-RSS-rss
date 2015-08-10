@@ -1,4 +1,4 @@
-# netflix-RSS-rss
+# Simple RSS-Server instrumented with Kieker (netflix-RSS-rss)
 RSS-server for load testing.
 
 ## Example
