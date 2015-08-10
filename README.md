@@ -11,5 +11,5 @@ sudo docker run -t -i \
   kieker/netflix-rss-rss
 ```
 To see which feeds are available, you can open `http://localhost/rss/` with your browser.
-The logs and config files of the instrumentation are stored in `/opt/kieker/{logs|config}` in this example.
+The logs and config files of the instrumentation are stored in `/tmp/netflix-rss/rss/{logs|config}` in this example.
 
